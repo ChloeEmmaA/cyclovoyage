@@ -4,7 +4,7 @@ title: "A propos de ce blog"
 author: "Chloé"
 categories: journal
 tags: [documentation,sample]
-image: mountains.jpg
+image: cyclo_allaman.jpg
 ---
 
 Salut!
