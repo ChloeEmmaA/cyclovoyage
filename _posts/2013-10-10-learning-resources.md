@@ -4,9 +4,10 @@ title: "Préparation du vélo couché et première réparation:"
 author: "Chloé"
 categories: journal
 tags: [documentation,sample]
-image: spools.jpg
+image: cyclo_repair.jpg
 ---
 
-  - Adapter la taille: CHAINE, GAINE ET TUBE EN ALU.
-  - CHOISIR LE GUIDON
-  - REPARER LE ROULEMENT à BILLE
+  - Adapter la taille: chaine, gaine et tube en alu.
+  - Changer le guidon
+  - Réparer le roulement é bille.
+  - changer la chaine et le derailleur
