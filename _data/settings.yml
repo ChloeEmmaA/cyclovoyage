@@ -7,13 +7,13 @@ disqus:
 google-ID: 'UA-112060364-1'
 
 menu:
-- {name: 'About', path: 'menu', url: 'about.html'}
-- {name: 'Writing', path: 'menu', url: 'writing.html'}
-- {name: 'Contact', path: 'menu', url: 'contact.html'}
+- {name: 'A propos', path: 'menu', url: 'about.html'}
+- {name: 'Articles', path: 'menu', url: 'writing.html'}
+- {name: 'Contacte', path: 'menu', url: 'contact.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'envelope', link: 'mailto:l.nguyen.paul@gmail.com'}
+- {icon: 'envelope', link: 'mailto:chloe.allemann@hotmail.com'}
 
 
 # Customize site text
@@ -23,6 +23,6 @@ pagination:
 
 sharing_button_prompt: 'Feel free to share!'
 
-related_posts: 'You may also enjoy:'
+related_posts: 'Pourrait aussi vous intéresser:'
 
-post_date_prefix: 'Written on'
+post_date_prefix: 'Ecrit le'
