@@ -4,7 +4,7 @@ title: "Nous allons partir avec des vélos couchés, mais pourquoi?"
 author: "Chloé"
 categories: journal
 tags: [documentation,sample]
-image: cyclo_troinex.jpg
+image: E1C4A718-FA6E-4CD5-ABF8-D6BA78492432.jpeg
 ---
 # Nous allons partir avec des vélos couchés, mais pourquoi?
 Je devais acheter un vélo de voyage, je suis donc allée à RandoBike, un super magasin de vélo du voyage tenu par une connaissance. Avant de m’y rendre, j’avais lu la partie sur le choix du vélo dans le manuel du voyage à vélo. J’ai aussi pensé à partir en Tandem, parce que je trouvais ça romantique, mais après quelque discussions avec d’autres voyageurs, je me suis vite rendue compte que ça me conviendrait pas d’être attaché à mon binôme tout au long du voyage. Je préfère avoir la possibilité d’aller où je veux, et si on a envie de partir dans la même direction, alors c’est encore mieux ! 
@@ -18,6 +18,5 @@ Inconvénient
 Confort: c’est génial, s’il est bien réglé, aucune douleur!
 L'aérodynamisme face au vent: face à la bise au bord du lac, la différence avec un vélo droit est bluffante.
 Vue: le paysage est panoramique, on est à la hauteur des fleurs pour les observer
-
 
 
