@@ -4,7 +4,7 @@ title: "Ou allez-vous?"
 author: "Chloé"
 categories: journal
 tags: [documentation,sample]
-image: cards.jpg
+image: cyclo_dos.jpg
 ---
 
 # Ou allez-vous?
