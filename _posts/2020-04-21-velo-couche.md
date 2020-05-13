@@ -13,10 +13,17 @@ La solution pour être prête à partir en juin était d’acheter d’occasion.
 
 
 Pour résumer, après quelque centaines de km de test, voilà les avantages et inconvénient des vélos couchés, on verra, après quelque milier de km si je dois mettre à jour cette table.
-Avantages
-Inconvénient
-Confort: c’est génial, s’il est bien réglé, aucune douleur!
-L'aérodynamisme face au vent: face à la bise au bord du lac, la différence avec un vélo droit est bluffante.
+
+Avantages           | Inconvénients           | 
+--------------------- | :-------------------: | 
+Confort: c’est génial, s’il est bien réglé, aucune douleur!                 | Ce n'est pas pratique à transporter       | 
+L'aérodynamisme, la différence avec la bise est bluffante.| C'est plus lent à la montée | 
 Vue: le paysage est panoramique, on est à la hauteur des fleurs pour les observer
+ | Impossible de passer inapercu |
+
+
+
+
+
 
 
