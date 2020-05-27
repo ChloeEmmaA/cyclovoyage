@@ -20,6 +20,6 @@ J'ai créé ce blog à partir de ce  : <a href="https://github.com/LeNPaul/jekyl
 
 
 
-<img src="./assets/img/cyclo_allaman.jpg"
+<img src="/assets/img/cyclo_allaman.jpg"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
