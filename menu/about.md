@@ -17,3 +17,5 @@ Si vous voulez recevoir une notification par email lorsqu’un nouvel article pa
 Bonne lecture!
 
 J'ai créé ce blog à partir de ce  : <a href="https://github.com/LeNPaul/jekyll-starter-kit" target="_blank">template</a> Jekyll de LeNPaul.
+
+ <img src="cyclo_allaman.jpg" alt="image velo" width="500" height="600"> 
