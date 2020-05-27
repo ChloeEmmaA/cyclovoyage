@@ -14,30 +14,12 @@ La solution pour être prête à partir en juin était d’acheter d’occasion.
 Pour résumer, après quelque centaines de km d'essai, je suis super contente de mon choix!
 Voilà les avantages et inconvénient des vélos couchés, on verra, après quelque milier de km si je dois mettre à jour cette table.
 
-Avantages           | Inconvénients           
---------------------- | :-------------------:
-Le confort: c’est génial, s’il est bien réglé, aucune douleur! On a l'impression d'être sur une chaise longue quand il fait beau et dans son bain quand il pleut.  | Ce n'est pas pratique à stoquer et transporter       
-L'aérodynamisme, la différence avec la bise est bluffante.| C'est plus lent à la montée 
-Vue le paysage est panoramique, on voit beaucoup mieux les oiseaus et les fleurs que sur un vélo standard.
- | Impossible de passer inapercu 
-|C'est différent et rigolo!|
 
 
 
-
-
-## Tables
-
-Title 1               | Title 2               | Title 3               | Title 4
---------------------- | :-------------------: | :-------------------- | --------------------:
-lorem                 | lorem ipsum           | lorem ipsum dolor     | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
-
-|   |   |
+| Avantages  | Inconvénients  |
 |---|---|
-|   |   |
-|   |   |
-|   |   |
-|   |   |
+| Le confort: c’est génial. On a l'impression d'être sur une chaise longue quand il fait beau et dans son bain quand il pleut.  | Ce n'est pas pratique à stoquer et transporter  |
+| L'aérodynamisme, la différence avec la bise est bluffante.  |C'est plus lent à la montée    |
+|Vue le paysage est panoramique, on voit beaucoup mieux les oiseaus et les fleurs que sur un vélo standard.   |Impossible de passer inapercu    |
+| C'est différent et rigolo!  |   |

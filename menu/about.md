@@ -18,4 +18,8 @@ Bonne lecture!
 
 J'ai créé ce blog à partir de ce  : <a href="https://github.com/LeNPaul/jekyll-starter-kit" target="_blank">template</a> Jekyll de LeNPaul.
 
- <img src="./assets/umgcyclo_allaman.jpg" alt="image velo" width="500" height="600"> 
+
+
+<img src="./assets/img/cyclo_allaman.jpg"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
